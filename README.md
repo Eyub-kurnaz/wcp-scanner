@@ -94,15 +94,15 @@ python main.py --url https://example.com
 
 With crawl options:
 
-python main.py --url https://bbc.com --max-depth 1 --max-pages 10
+python main.py --url https://example.com --max-depth 1 --max-pages 10
 
 With report output:
 
-python main.py --url https://bbc.com --max-depth 1 --max-pages 10 -o reports/bbc.txt
+python main.py --url https://example.com --max-depth 1 --max-pages 10 -o reports/bbc.txt
 
 JSON output:
 
-python main.py --url https://bbc.com --max-depth 1 --max-pages 10 -o reports/bbc.json
+python main.py --url https://example.com --max-depth 1 --max-pages 10 -o reports/bbc.json
 
 ## CLI Options
 
